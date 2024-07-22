@@ -459,6 +459,7 @@ section {
 
 .resume .resume-item ul li {
   padding-bottom: 10px;
+  text-align: left;
 }
 
 .resume .resume-item:last-child {
